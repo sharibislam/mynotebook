@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from "react";
 
 export const About = () => {
-  return <div>This is about page</div>;
+  return <div>This is about page for myNoteBook app</div>;
 };
